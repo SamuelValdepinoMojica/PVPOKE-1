@@ -1,0 +1,183 @@
+{
+    "properties": {
+        "lastUpdated": "March 15, 2024",
+        "totalPerformers": 11976,
+        "totalTeams": 3992
+    },
+    "performers": [{
+        "pokemon": "zygarde_complete DT+Cr\/Eq",
+        "individualScore": 123.84,
+        "teamScore": 553.69,
+        "games": 160
+    }, {
+        "pokemon": "dialga_origin DB+IH\/ROT",
+        "individualScore": 119.89,
+        "teamScore": 549.98,
+        "games": 634,
+        "usageTrend": [13.24, 21.66, 14.27, 19.77, 11.96, 17.93, 21.52, 20.04, 17.08, 9.51]
+    }, {
+        "pokemon": "mewtwo_shadow PC+Pst\/SB",
+        "individualScore": 141.08,
+        "teamScore": 548.69,
+        "games": 157
+    }, {
+        "pokemon": "palkia_origin DB+AT\/SpR",
+        "individualScore": 117.87,
+        "teamScore": 542.59,
+        "games": 561,
+        "usageTrend": [6.97, 16.47, 20.08, 17.39, 12.22, 10.34, 10.45, 13.48, 13.79, 19.02]
+    }, {
+        "pokemon": "solgaleo FS+IH\/PsF",
+        "individualScore": 114.92,
+        "teamScore": 542.02,
+        "games": 177
+    }, {
+        "pokemon": "landorus_therian MS+SE\/SSt",
+        "individualScore": 136.66,
+        "teamScore": 532.6,
+        "games": 704,
+        "usageTrend": [15.79, 15.38, 10.23, 20.57, 23.58, 13.97, 7.58, 11.88, 11.52, 21.59]
+    }, {
+        "pokemon": "palkia_origin DT+AT\/SpR",
+        "individualScore": 117.57,
+        "teamScore": 527.09,
+        "games": 222
+    }, {
+        "pokemon": "ho_oh I+BrB\/SF",
+        "individualScore": 127.57,
+        "teamScore": 524.34,
+        "games": 751,
+        "usageTrend": [15.45, 15.22, 25.51, 15.91, 11.36, 19.83, 31.35, 24.82, 24.9, 15.37]
+    }, {
+        "pokemon": "dragonite DB+DC\/SP",
+        "individualScore": 116.37,
+        "teamScore": 493.62,
+        "games": 287,
+        "usageTrend": [8.97, 6.52, 6.06, 6.7, 6.8, 7.93, 3.28, 8.51, 10.91, 7.44]
+    }, {
+        "pokemon": "lugia DT+A\/SA",
+        "individualScore": 116.71,
+        "teamScore": 492.11,
+        "games": 639,
+        "usageTrend": [12.69, 14.55, 14.39, 12.95, 15.15, 14.31, 15.98, 12.77, 18.72, 23.29]
+    }, {
+        "pokemon": "xerneas Geo+CC\/M",
+        "individualScore": 116.51,
+        "teamScore": 489.31,
+        "games": 675,
+        "usageTrend": [17.17, 15.13, 13.51, 15, 22.2, 14.48, 17.21, 20.21, 10.08, 14.15]
+    }, {
+        "pokemon": "mewtwo PC+Pst\/SB",
+        "individualScore": 113.41,
+        "teamScore": 486.55,
+        "games": 715,
+        "usageTrend": [23.1, 25, 22.73, 20.34, 12.82, 21.55, 31.15, 19.33, 11.52, 15.49]
+    }, {
+        "pokemon": "giratina_origin SC+OW\/SB",
+        "individualScore": 110.64,
+        "teamScore": 483.64,
+        "games": 614,
+        "usageTrend": [17.24, 18.14, 15.91, 15.34, 15.49, 13.45, 17.62, 13.83, 12.96, 14.39]
+    }, {
+        "pokemon": "rayquaza DT+BkS\/DrA",
+        "individualScore": 101.13,
+        "teamScore": 479.39,
+        "games": 226
+    }, {
+        "pokemon": "dialga DB+DM\/IH",
+        "individualScore": 116.94,
+        "teamScore": 476.52,
+        "games": 1483,
+        "usageTrend": [39.1, 33.78, 33.08, 35, 36.23, 35.34, 38.93, 38.3, 37.65, 37.93]
+    }, {
+        "pokemon": "kyogre W+OP\/S",
+        "individualScore": 104.72,
+        "teamScore": 476.02,
+        "games": 481,
+        "usageTrend": [16.07, 10.87, 11.87, 12.16, 11.96, 11.55, 11.89, 13.83, 11.11, 12.8]
+    }, {
+        "pokemon": "zacian_hero Sn+CC\/WC",
+        "individualScore": 117.88,
+        "teamScore": 475.12,
+        "games": 387,
+        "usageTrend": [9.17, 10.03, 10.86, 8.75, 10.59, 11.38, 10.86, 7.8, 10.49, 9.27]
+    }, {
+        "pokemon": "yveltal Sn+DP\/ObW",
+        "individualScore": 116.62,
+        "teamScore": 475.04,
+        "games": 182
+    }, {
+        "pokemon": "metagross BP+Eq\/MM",
+        "individualScore": 115.99,
+        "teamScore": 473.06,
+        "games": 234
+    }, {
+        "pokemon": "groudon MS+FiP\/PrB",
+        "individualScore": 107.83,
+        "teamScore": 469.58,
+        "games": 537,
+        "usageTrend": [14.83, 14.21, 10.61, 12.95, 13.68, 12.41, 10.66, 14.36, 17.7, 13.05]
+    }, {
+        "pokemon": "excadrill MS+DR\/RS",
+        "individualScore": 95.83,
+        "teamScore": 467.03,
+        "games": 252
+    }],
+    "teams": [{
+        "team": "ho_oh I\/BrB\/SF|dialga_origin DB\/IH\/ROT|zekrom DB\/Cr\/FuB",
+        "teamScore": 596.63,
+        "games": 24
+    }, {
+        "team": "zygarde_complete DT\/Cr\/Eq|ho_oh I\/BrB\/SF|lugia DT\/A\/SA",
+        "teamScore": 575.03,
+        "games": 30
+    }, {
+        "team": "palkia_origin DB\/AT\/SpR|dialga_origin DB\/IH\/ROT|landorus_therian MS\/SE\/SSt",
+        "teamScore": 565.14,
+        "games": 22
+    }, {
+        "team": "mewtwo_shadow PC\/Pst\/SB|dialga_origin DB\/IH\/ROT|ho_oh I\/BrB\/SF",
+        "teamScore": 564.13,
+        "games": 120
+    }, {
+        "team": "mewtwo PC\/Pst\/SB|dialga_origin DB\/IH\/ROT|ho_oh I\/BrB\/SF",
+        "teamScore": 552.9,
+        "games": 119
+    }, {
+        "team": "dialga_origin DB\/IH\/ROT|landorus_therian MS\/SE\/SSt|palkia_origin DB\/AT\/SpR",
+        "teamScore": 547.4,
+        "games": 30
+    }, {
+        "team": "togekiss Ch\/AP\/AuS|dialga DB\/DM\/IH|kyogre W\/OP\/S",
+        "teamScore": 514.34,
+        "games": 32
+    }, {
+        "team": "palkia_origin DT\/AT\/SpR|solgaleo FS\/IH\/PsF|xerneas Geo\/CC\/M",
+        "teamScore": 505.17,
+        "games": 23
+    }, {
+        "team": "ho_oh I\/BrB\/SF|dialga DB\/DM\/IH|xerneas Geo\/CC\/M",
+        "teamScore": 504.74,
+        "games": 34
+    }, {
+        "team": "dialga DB\/DM\/IH|giratina_origin SC\/OW\/SB|lugia DT\/A\/SA",
+        "teamScore": 502.31,
+        "games": 61
+    }, {
+        "team": "ho_oh I\/BrB\/SF|lugia DT\/A\/SA|rayquaza DT\/BkS\/DrA",
+        "teamScore": 497.58,
+        "games": 59
+    }, {
+        "team": "giratina_origin SC\/OW\/SB|xerneas Geo\/CC\/M|zacian_hero Sn\/CC\/WC",
+        "teamScore": 497.15,
+        "games": 65
+    }, {
+        "team": "landorus_therian MS\/SE\/SSt|xerneas Geo\/CC\/M|zacian_hero QA\/CC\/WC",
+        "teamScore": 494.98,
+        "games": 54
+    }, {
+        "team": "ho_oh I\/BrB\/SF|rayquaza DT\/BkS\/DrA|zekrom DB\/Cr\/WC",
+        "teamScore": 490.38,
+        "games": 29
+    }]
+}
